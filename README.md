@@ -1,6 +1,6 @@
 JukeboxControl - Redstone interaction with jukeboxes
 ====================
-This plugin allows players to interact with and control their Minecraft jukeboxes with redsstone.
+This plugin allows players to interact with and control their Minecraft jukeboxes with redstone.
 
 Usage
 ----------
