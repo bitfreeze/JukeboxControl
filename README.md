@@ -15,4 +15,4 @@ Download the latest release and place JukeboxControl.jar into your plugins folde
 
 License
 ----------
-JukeboxControl is licensed under the [LGPL](http://www.gnu.org/licenses/lgpl.html)
+JukeboxControl is licensed under the [LGPL V3](http://www.gnu.org/licenses/lgpl.html)
